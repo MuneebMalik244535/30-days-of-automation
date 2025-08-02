@@ -37,7 +37,7 @@ Here's a simple diagram showing how a browser automation process works:
 
 ### 🔄 How Does Automation Work?
 
-![Automation Flow Diagram](./assets/automation-flow.png)
+![Automation Flow Diagram](./assets/automation_workflow.png)
 
 
 
